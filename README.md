@@ -1,6 +1,6 @@
 # SRT 工具包
 
->### **SRT** 即 ***Simple Rockets2 Toolkit***
+>### **SRT** 即 ***SimpleRockets2 Toolkit***
 <br>
 
 是一款针对PC平台游戏建造提供的全局部件属性处理工具
@@ -34,7 +34,7 @@ SimpleRocketsToolkit
 
 # SRT Toolkit
 
->### **SRT** Is the abbreviation of ***Simple Rockets2 Toolkit***
+>### **SRT** Is the abbreviation of ***SimpleRockets2 Toolkit***
 <br>
 
 Is a tool for the global parts properties processing of our in-game building works.
