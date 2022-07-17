@@ -13,7 +13,7 @@
 
 ![功能概览](https://github.com/Server-WX/Simple_Rockets_Toolkit/raw/master/images/cn_SRT_INTRO.png)
 
->完整的功能请[点击此处查看视频演示]()
+>完整的功能请[点击此处查看视频演示](https://www.bilibili.com/video/BV1Zg411o7jU?share_source=copy_web&vd_source=04091d606d289265f1112191dc69b268)
 
 程序运行目录，请确保您没丢失其中的文件
 
