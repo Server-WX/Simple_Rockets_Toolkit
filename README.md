@@ -11,7 +11,7 @@
 
 具体功能如下图所示：
 
-![功能概览](https://server-wx.github.io/Simple_Rockets_Toolkit/images/cn_SRT_INTRO.png)
+![功能概览](./images/cn_SRT_INTRO.png)
 
 >完整的功能请[点击此处查看视频演示]()
 
