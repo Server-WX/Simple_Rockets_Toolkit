@@ -18,7 +18,7 @@
 程序运行目录，请确保您没丢失其中的文件
 
 ```
-SimpleRocketsToolkit
+SimpleRockets2Toolkit
 ├── jre
 │   ├── bin
 │   │   
@@ -52,7 +52,7 @@ The functions are shown in the following picture:
 The program running directory, please make sure that you do not lose the files in it
 
 ```
-SimpleRocketsToolkit
+SimpleRockets2Toolkit
 ├── jre
 │   ├── bin
 │   │   
