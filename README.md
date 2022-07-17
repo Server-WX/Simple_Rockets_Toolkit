@@ -11,7 +11,7 @@
 
 具体功能如下图所示：
 
-![功能概览](./images/cn_SRT_INTRO.png)
+![功能概览](https://github.com/Server-WX/Simple_Rockets_Toolkit/raw/master/images/cn_SRT_INTRO.png)
 
 >完整的功能请[点击此处查看视频演示]()
 
@@ -45,7 +45,7 @@ This toolkit includes **Performance**, **Part Physics** and other tools like **C
 
 The functions are shown in the following picture:
 
-![Functions](https://server-wx.github.io/Simple_Rockets_Toolkit/images/en_SRT_INTRO.png)
+![Functions](https://github.com/Server-WX/Simple_Rockets_Toolkit/raw/master/images/en_SRT_INTRO.png)
 
 >Video demo [Click here for the full function introduction Video]()
 
