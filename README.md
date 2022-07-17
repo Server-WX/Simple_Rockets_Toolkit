@@ -18,7 +18,7 @@
 程序运行目录，请确保您没丢失其中的文件
 
 ```
-SimpleRocketsTools
+SimpleRocketsToolkit
 ├── jre
 │   ├── bin
 │   │   
@@ -30,3 +30,37 @@ SimpleRocketsTools
 如果程序在您那边无法运行，请[重新下载](https://github.com/Server-WX/Simple_Rockets_Tools/releases/tag/stable)并解压运行
 
 >如果您的PC上已安装了Java，您可以选择下载不带Jre的版本
+
+
+# SRT Toolkit
+
+>### **SRT** Is the abbreviation of ***Simple Rockets Tools***
+<br>
+
+Is a tool for the global parts properties processing of our in-game building works.
+<br>
+
+This toolkit includes **Performance**, **Part Physics** and other tools like **Color Lattices** and **Fuel Lines Everywhere**
+<br>
+
+The functions are shown in the following picture:
+
+![Functions](./images/en_SRT_INTRO.png)
+
+>Video demo [Click here for the full function introduction Video]()
+
+The program running directory, please make sure that you do not lose the files in it
+
+```
+SimpleRocketsToolkit
+├── jre
+│   ├── bin
+│   │   
+│   └── lib
+│
+└── SRT.exe
+```
+
+If the program cannot run on your device, please [download again](https://github.com/Server-WX/Simple_Rockets_Tools/releases/tag/stable) and unzip it to run
+
+>If Java is installed into your PC, you can choose to download the version without JRE
