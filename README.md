@@ -47,7 +47,7 @@ The functions are shown in the following picture:
 
 ![Functions](https://s3.bmp.ovh/imgs/2022/07/18/1e80baf24e792900.png)
 
->Video demo [Click here for the full function introduction Video]()
+>Video demo [Click here for the full function introduction Video](https://www.simplerockets.com/Videos/View/199807)
 
 The program running directory, please make sure that you do not lose the files in it
 
