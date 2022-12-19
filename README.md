@@ -31,6 +31,10 @@ SimpleRockets2Toolkit
 
 >如果您的PC上已安装了Java，您可以选择下载不带Jre的版本
 
+### 更新日志
+
+- v1.0 正式发布
+- v1.2 修复了在官方测试版分支 Career v0.9.999.9 中，抗热护盾属性失效的问题
 
 # SRT Toolkit
 
@@ -64,3 +68,8 @@ SimpleRockets2Toolkit
 If the program cannot run on your device, please [download again](https://github.com/Server-WX/Simple_Rockets_Tools/releases/tag/stable) and unzip it to run
 
 >If Java is installed into your PC, you can choose to download the version without JRE
+
+### Update Log
+
+- v1.0 Public Release
+- v1.2 Fixed an issue where the heat shield attribute was not working in the official beta branch Career v0.9.999.9
