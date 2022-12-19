@@ -81,6 +81,9 @@ public class GeneralDefense {
                     // 零件抗热系数
                     config.addAttribute("heatShield", antiHeat);
                 }
+                if (config.attribute("heatShield") != null) { // 移除内鬼
+                    config.remove(config.attribute("heatShield"));
+                }
 
             });
         }
