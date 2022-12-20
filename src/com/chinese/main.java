@@ -11,7 +11,7 @@ import java.util.Properties;
 public class main {
 
     public static void main(String[] args) {
-        String titleName = "SR2 Tools";
+        String titleName = "SR2 Toolkit";
         String titleEditName = titleName + " " + "—— 修改成功";
         JFrame frame = new JFrame(titleName);
         JPanel panel = new JPanel();
